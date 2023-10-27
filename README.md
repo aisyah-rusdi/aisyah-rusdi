@@ -1,5 +1,4 @@
-Hi there 👋 
-I'm Aisyah Rusdi and welcome to my GitHub profile 
+Hi there 👋 I'm Aisyah Rusdi and welcome to my GitHub profile 
 
 🔭 I’m currently working on my Google Advanced Data Analytics Certificate
 🌱 I’m currently learning at Universiti Teknologi Malaysia majoring in Computer Science (Bioinformatics)
