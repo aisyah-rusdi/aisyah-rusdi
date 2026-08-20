@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisyah Rusdi</h1>
-<h3 align="center">a passionate data enthusiast on a journey to become a data scientist</h3>
+<h3 align="center">a data enthusiast on a journey to become a data scientist</h3>
 
 ## 🔭 I'm currently working on
 
